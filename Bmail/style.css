@@ -1,0 +1,72 @@
+#kvadrat    {   height: 400px;
+                width: 400px;
+                background-color: #f7f7f7;    
+                border-radius: 2px;        
+                box-shadow: 1px 3px 5px #888888;
+                                            }
+
+#headimg    {   position: relative;
+                left: 140px;                }
+
+#acc-icon   {   height: 100px;
+                width: 100px;  
+                position: relative;
+                top: 60px;
+                left: 140px;                }
+
+#input      {   height: 44px;
+                width: 274px;
+                font-size: 20px;
+                font-family: sans-serif;
+                opacity: 0.4;
+                position: relative;
+                top: 120px;
+                right: 50px; 
+                                            }
+
+#gumb       {   border-radius: 5px;
+                height: 44px;
+                width: 280px;
+                position: relative;
+                top: 130px;
+                left: 55px;
+                background-color: cornflowerblue;
+                border: none;
+                color: white;
+                font-family: sans-serif;
+                cursor: pointer;            }
+
+#link        {  position: relative;
+                top: 170px;
+                right: 30px;                }
+
+#link2      {   position: relative;
+                top: 30px;
+                left: 160px;}
+
+.link        {  text-decoration: none;
+                font-family: sans-serif;
+                font-size: 12px;
+                color: cornflowerblue;      }
+
+p           {   font-family: sans-serif;    }
+
+#body       {   position:fixed;
+                top: 50%;
+                left: 50%;
+                margin-top: -25em; /* center */
+                margin-left: -10em; /* center */
+                                            }
+
+.middle     {   text-align: center;         }
+
+#footp      {   position: relative;
+                top: 70px;
+                }
+
+#footimg    {   position: relative;
+                top: 70px;
+                left: 90px                  }
+
+
+            
